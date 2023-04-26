@@ -76,15 +76,26 @@ h3{
 section{
     padding: 30px;
 }
+.flex{
+    display: flex;
+}
+.coluna{
+    margin: auto;
+}
 aside{
     margin: 10px;
     padding: 30px;
 }
-picture{
-    max-width: 850px;
+picture#bugdroid img{
+    display: block;
+    margin: auto;
+    max-width: 450px;
 }
-picture#{
-    width: 500px;
+picture#dan-droids{
+    width: 100px;
+}
+picture#dan-droids img{
+    width: 300px;
 }
 img{
     width: 100%;
