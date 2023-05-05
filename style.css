@@ -88,6 +88,12 @@ aside{
 }
 ul{
     list-style: none;
+    columns: 2;
+    padding: 20px;
+}
+li{
+    padding: 5px;
+    
 }
 picture#bugdroid img{
     display: block;
