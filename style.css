@@ -86,6 +86,9 @@ aside{
     margin: 10px;
     padding: 30px;
 }
+ul{
+    list-style: none;
+}
 picture#bugdroid img{
     display: block;
     margin: auto;
